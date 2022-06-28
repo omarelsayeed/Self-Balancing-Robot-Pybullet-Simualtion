@@ -34,7 +34,7 @@ https://user-images.githubusercontent.com/64399795/176074552-865dcc8d-17e7-4d01-
 https://user-images.githubusercontent.com/64399795/176076175-71899c1c-df9b-47ee-9533-f10392daf3ce.mp4
 
 # Results 
-The agent took like 2m steps before finding the best policy then it consistently got the reward increasing by balancing.
+The agent took like 400k steps before finding the best policy then it consistently got the reward increasing by balancing.
 ![image](https://user-images.githubusercontent.com/64399795/176076339-d99b01af-a68c-4b49-9f3a-194a05061a61.png)
 
 
